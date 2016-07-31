@@ -4,8 +4,15 @@
         <description><![CDATA[i-Invested.com]]></description>
         <link>https://thegrid.ai/i-investedcom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 20:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 20:21:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-investedcom/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[i-Invested]]></title>
+            <description><![CDATA[<article><h1>i-Invested</h1><p>Global open source ecosystem…where ideas come to life.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07b495352a7425607646fcb1a1e9e82f4e984476.jpg"></article>]]></description>
+            <link>https://unsplash.com/photos/nxCtO8W9JLo</link>
+            <guid isPermaLink="false">9ced250d-8613-47b3-b3a7-fbdc60806e95</guid>
+            <pubDate>Sun, 31 Jul 2016 20:21:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<video src="blob:https%3A//www.youtube.com/dd2326d5-0d12-4068-adf5-687658a66b13"></video>]]></description>
@@ -67,13 +74,6 @@
             <link>https://thegrid.ai/i-investedcom/join-the-evolution/index.html</link>
             <guid isPermaLink="false">06c72115-4afe-4fb3-b4b3-e909ce05dd98</guid>
             <pubDate>Sun, 31 Jul 2016 20:20:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Connecting the dots...]]></title>
-            <description><![CDATA[<article><h1>Connecting the dots...</h1><p>Do-whatever-you-want high-resolution photo from Oleg Chursin on Unsplash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53626fa12eb37cef5feb4cec756e74cf88d67303.jpg"></article>]]></description>
-            <link>https://unsplash.com/photos/IoCWq07GaG4</link>
-            <guid isPermaLink="false">408f0266-b106-427f-87bb-40aaab2c897d</guid>
-            <pubDate>Sun, 31 Jul 2016 20:20:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
