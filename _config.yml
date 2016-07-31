@@ -1,4 +1,3 @@
-layout_spectrum: 0.3564550424925983
 typography_spectrum: 0.8959220598917454
 color:
   brandStrength: 0.5320449753198773
@@ -11,5 +10,7 @@ color:
     - '#7E827A'
     - '#E3CDA4'
     - '#C77966'
+layout_spectrum: 0.3564550424925983
 name: i-Invested.com
 title: i-Invested.com
+description: Empowering Innovative Crowds
